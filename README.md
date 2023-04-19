@@ -1,8 +1,10 @@
 ---
-description: The introduction of the iRatiba
+description: What is iRatiba?
 ---
 
 # INTRODUCTION
+
+<figure><img src=".gitbook/assets/timetable-users.svg" alt=""><figcaption></figcaption></figure>
 
 iRatiba is a web-based and mobile-based timetable solution designed to help universities and higher education institutions manage their schedules efficiently.&#x20;
 
