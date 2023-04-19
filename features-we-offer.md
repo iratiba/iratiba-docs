@@ -26,7 +26,7 @@ iRatiba has a simple and intuitive user interface that makes it easy to create a
 
 Staff and Students can export PDF versions of the schedule by programme or by course, making it easy to distribute and share schedules in a convenient format.
 
-<figure><img src=".gitbook/assets/196-1963207_export-pdf-icon-icon.jpg" alt="to pdf"><figcaption><p>pdf</p></figcaption></figure>
+<figure><img src=".gitbook/assets/pngwing.com.png" alt=""><figcaption></figcaption></figure>
 
 ### **Timetable Conflict Resolution**
 
