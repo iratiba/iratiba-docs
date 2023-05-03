@@ -1,7 +1,3 @@
----
-description: What is iRatiba?
----
-
 # INTRODUCTION
 
 <figure><img src=".gitbook/assets/timetable-users.svg" alt=""><figcaption></figcaption></figure>
