@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T15:45:34.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="flvTRKPnOR-MbPGAjNP6" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T15:48:21.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XFaTdnMpH-PpOA70xs54" version="21.2.7" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1004" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -98,9 +98,21 @@
             <mxPoint x="657.5" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qoEf8MfI4UBp0yyCyqbj-41" value="Courses, &lt;br style=&quot;font-size: 10px;&quot;&gt;Venues,&lt;br style=&quot;font-size: 10px;&quot;&gt;Timetable Events" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="qoEf8MfI4UBp0yyCyqbj-40">
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-41" value="Edit Courses, &lt;br style=&quot;font-size: 10px;&quot;&gt;Venues,&lt;br style=&quot;font-size: 10px;&quot;&gt;Timetable Events" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="qoEf8MfI4UBp0yyCyqbj-40">
           <mxGeometry x="0.4125" y="-6" relative="1" as="geometry">
             <mxPoint x="-37" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-42" value="View Scheduling Logs" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;entryX=1;entryY=0.71;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-34" target="qoEf8MfI4UBp0yyCyqbj-38">
+          <mxGeometry x="-0.2223" y="10" relative="1" as="geometry">
+            <mxPoint x="796" y="202" as="sourcePoint" />
+            <mxPoint x="860" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="911" y="170" />
+              <mxPoint x="710" y="170" />
+              <mxPoint x="710" y="137" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
