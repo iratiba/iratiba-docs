@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T14:03:55.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QasWxDzYQQY_oVvIs_JV" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T14:11:26.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dv9N-fsTHfbkdzqQIaHs" version="21.2.7" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="880" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-2" value="Users &amp;amp; Coaches" style="html=1;dashed=0;whitespace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="405" y="88" width="110" height="50" as="geometry" />
+          <mxGeometry x="570" y="210" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;curved=1;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-7" target="qoEf8MfI4UBp0yyCyqbj-12">
           <mxGeometry relative="1" as="geometry" />
@@ -23,11 +23,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-7" value="Habit &lt;br&gt;Tracker &lt;br&gt;App&lt;br&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="172.5" width="85" height="85" as="geometry" />
+          <mxGeometry x="582.5" y="294.5" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;curved=1;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-12" target="qoEf8MfI4UBp0yyCyqbj-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="210.5" as="targetPoint" />
+            <mxPoint x="355" y="332.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-9" value="UserID, &lt;br style=&quot;font-size: 10px;&quot;&gt;Password, &lt;br style=&quot;font-size: 10px;&quot;&gt;Habits,&lt;br style=&quot;font-size: 10px;&quot;&gt;HabitCheckins,&lt;br style=&quot;font-size: 10px;&quot;&gt;Coach,&lt;br style=&quot;font-size: 10px;&quot;&gt;Users&lt;br style=&quot;font-size: 10px;&quot;&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="qoEf8MfI4UBp0yyCyqbj-8">
@@ -44,19 +44,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-12" value="User&amp;nbsp;&lt;br&gt;API" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="132.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="425" y="254.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qoEf8MfI4UBp0yyCyqbj-13" value="Authentication &lt;br&gt;service" style="html=1;dashed=0;whitespace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="20" y="98" width="110" height="50" as="geometry" />
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-13" value="Data Entry" style="html=1;dashed=0;whitespace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="185" y="220" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-14" value="User database" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="20" y="198" width="110" height="30" as="geometry" />
+          <mxGeometry x="185" y="334.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-15" value="Habits database" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="590" y="108" width="110" height="30" as="geometry" />
+          <mxGeometry x="755" y="230" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-16" value="Logs" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="590" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="755" y="322" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-20" target="qoEf8MfI4UBp0yyCyqbj-16">
           <mxGeometry relative="1" as="geometry" />
@@ -68,13 +68,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-20" value="Payments &lt;br&gt;API" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="415" y="303" width="90" height="90" as="geometry" />
+          <mxGeometry x="580" y="425" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-21" value="Payments database" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="590" y="273" width="110" height="30" as="geometry" />
+          <mxGeometry x="755" y="395" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-22" value="Payment &lt;br&gt;Processing &lt;br&gt;Service" style="html=1;dashed=0;whitespace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="590" y="323" width="110" height="50" as="geometry" />
+          <mxGeometry x="755" y="445" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
