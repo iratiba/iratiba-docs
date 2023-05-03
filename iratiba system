@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T14:19:07.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tJcx2bbCENO4YInDpG99" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T14:19:22.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TGEGC6C2wDiqoscaNegW" version="21.2.7" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="880" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-11" value="Courses, Venues, Events" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="qoEf8MfI4UBp0yyCyqbj-10">
           <mxGeometry x="0.2036" y="3" relative="1" as="geometry">
-            <mxPoint x="8" y="-7" as="offset" />
+            <mxPoint x="13" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-12" value="User&amp;nbsp;&lt;br&gt;API" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
