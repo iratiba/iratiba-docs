@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T15:27:34.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="K9LOtF8HqT6rbBJx4-sk" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T15:28:08.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nvNq4u-ZNt46R2ZTfpAY" version="21.2.7" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1004" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -15,6 +15,10 @@
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-5" value="scheduling logs" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-7" target="qoEf8MfI4UBp0yyCyqbj-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="300.0526315789474" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="337" />
+              <mxPoint x="820" y="295" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-7" value="iRatiba Timetable&lt;br&gt;App" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;" vertex="1" parent="1">
@@ -72,7 +76,7 @@
           <mxGeometry x="630" y="150" width="78" height="58" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-34" value="Logs" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management;fontSize=10;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="860" y="270" width="41" height="50" as="geometry" />
+          <mxGeometry x="890" y="270" width="41" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
