@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T14:40:41.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QiWraHpNwMRqjfIXKFw3" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T14:44:15.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fjlxaJpbbCJl0oRtnllD" version="21.2.7" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="880" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
             <mxPoint x="355" y="332.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qoEf8MfI4UBp0yyCyqbj-9" value="UserID, &lt;br style=&quot;font-size: 10px;&quot;&gt;Password, &lt;br style=&quot;font-size: 10px;&quot;&gt;Habits,&lt;br style=&quot;font-size: 10px;&quot;&gt;HabitCheckins,&lt;br style=&quot;font-size: 10px;&quot;&gt;Coach,&lt;br style=&quot;font-size: 10px;&quot;&gt;Users&lt;br style=&quot;font-size: 10px;&quot;&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="qoEf8MfI4UBp0yyCyqbj-8">
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-9" value="Courses, &lt;br style=&quot;font-size: 10px;&quot;&gt;Venues,&lt;br style=&quot;font-size: 10px;&quot;&gt;Timetable Events" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="qoEf8MfI4UBp0yyCyqbj-8">
           <mxGeometry x="0.4125" y="-6" relative="1" as="geometry">
             <mxPoint x="4" y="-37" as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-11" value="Courses, Venues, Events" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="qoEf8MfI4UBp0yyCyqbj-10">
           <mxGeometry x="0.2036" y="3" relative="1" as="geometry">
-            <mxPoint x="13" y="3" as="offset" />
+            <mxPoint x="1" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-12" value="Data&amp;nbsp;&lt;br&gt;API" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
