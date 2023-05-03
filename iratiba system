@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T15:23:02.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eluwQkHknJL9-vS7Xoz-" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T15:25:10.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="iaViVgTurJvUAv7xNO2O" version="21.2.7" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
     <mxGraphModel dx="1004" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qoEf8MfI4UBp0yyCyqbj-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;curved=1;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-33" target="qoEf8MfI4UBp0yyCyqbj-7">
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-1" value="course codes, venue" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;curved=1;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-33" target="qoEf8MfI4UBp0yyCyqbj-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="725" y="210" as="sourcePoint" />
           </mxGeometry>
@@ -12,7 +12,7 @@
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-3" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;curved=1;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-7" target="qoEf8MfI4UBp0yyCyqbj-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qoEf8MfI4UBp0yyCyqbj-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-7" target="qoEf8MfI4UBp0yyCyqbj-34">
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-5" value="scheduling logs" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-7" target="qoEf8MfI4UBp0yyCyqbj-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="300.0526315789474" as="targetPoint" />
           </mxGeometry>
@@ -59,10 +59,10 @@
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Global Database&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
           <mxGeometry x="204.29" y="400" width="71.43" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qoEf8MfI4UBp0yyCyqbj-31" value="Timetable view&lt;br&gt;according to&amp;nbsp;&lt;br&gt;search" style="html=1;dashed=0;whitespace=wrap;fillColor=#f8cecc;strokeColor=#b85450;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-31" value="Timetable view&lt;br&gt;according to&amp;nbsp;&lt;br&gt;user search" style="html=1;dashed=0;whitespace=wrap;fillColor=#f8cecc;strokeColor=#b85450;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="598" y="480" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qoEf8MfI4UBp0yyCyqbj-32" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-7" target="qoEf8MfI4UBp0yyCyqbj-31">
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-32" value="timetable" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qoEf8MfI4UBp0yyCyqbj-7" target="qoEf8MfI4UBp0yyCyqbj-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="724" y="380" as="sourcePoint" />
             <mxPoint x="724" y="420" as="targetPoint" />
