@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T16:01:18.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SXP5nZm6Mis-K_REdtM-" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T16:03:57.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="YOdOZTdcEZBRxeTx8C4T" version="21.2.7" type="github">
   <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
-    <mxGraphModel dx="1363" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qoEf8MfI4UBp0yyCyqbj-51" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="qoEf8MfI4UBp0yyCyqbj-51" value="" style="group;shadow=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="185" y="188" width="746" height="478" as="geometry" />
         </mxCell>
         <mxCell id="qoEf8MfI4UBp0yyCyqbj-7" value="&lt;b&gt;iRatiba&lt;/b&gt; Timetable&lt;br&gt;App" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;" vertex="1" parent="qoEf8MfI4UBp0yyCyqbj-51">
